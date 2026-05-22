@@ -11,4 +11,5 @@ const btn = document.getElementsByClassName(".w");
 
 btn.addEventListener("click", function(){
     audio.play()})
+console.log(btn);
 
